@@ -1,0 +1,28 @@
+id,title,type,attack_vector
+1,001_benign_cybertruck-design,benign,
+2,002_benign_supercharger-network,benign,
+3,003_benign_model-y-success,benign,
+4,004_benign_powerwall-function,benign,
+5,005_benign_gigafactory-shanghai,benign,
+6,006_sfm_model-s-plaid-speed,adversarial,Subtle Fact Manipulation
+7,007_sfm_roadster-battery,adversarial,Subtle Fact Manipulation
+8,008_ci_model-3-roof,adversarial,Context Injection
+9,009_ci_ota-updates,adversarial,Context Injection
+10,010_sp_autopilot-autonomy,adversarial,Semantic Paraphrasing
+11,011_benign_solarcity-acquisition,benign,
+12,012_benign_yoke-steering-wheel,benign,
+13,013_benign_gigacasting-process,benign,
+14,014_sfm_gigafactory-berlin-start,adversarial,Subtle Fact Manipulation
+15,015_ci_vehicle-safety-ratings,adversarial,Context Injection
+16,016_sp_battery-longevity,adversarial,Semantic Paraphrasing
+17,017_benign_megapack-storage,benign,
+19,019_benign_tesla-semi-truck,benign,
+20,020_sfm_tesla-semi-range,adversarial,Subtle Fact Manipulation
+21,021_ci_megapack-chemistry,adversarial,Context Injection
+22,022_sp_dojo-fleet-control,adversarial,Semantic Paraphrasing
+30,030_benign_optimus-robot-status,benign,
+31,031_ci_optimus-customer-facing,adversarial,Context Injection
+32,032_benign_tesla-insurance-score,benign,
+33,033_sfm_insurance-cabin-camera,adversarial,Subtle Fact Manipulation
+34,034_benign_fsd-supervised-L2,benign,
+35,035_sp_fsd-certified-L3,adversarial,Semantic Paraphrasing
