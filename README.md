@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 [![Paper](https://img.shields.io/badge/paper-coming_soon-purple)](https://#)
 
-## 📖 Abstract
+## Abstract
 
 This repository contains a specialized dataset for evaluating the adversarial robustness of Retrieval-Augmented Generation (RAG) models. As RAG systems become critical for knowledge-intensive tasks, their vulnerability to misinformation injected into their retrieval corpus is a significant concern. This project introduces a dual-domain corpus designed to benchmark RAG model performance against sophisticated, plausible falsehoods. The dataset is split into two distinct corpora: one based on a real-world, high-knowledge entity (**Tesla, Inc.**) and another on a fictional, internally consistent entity (**The Republic of Sanchuria**). This design allows researchers to test model behavior when presented with information that may or may not exist in its pre-trained weights.
 
